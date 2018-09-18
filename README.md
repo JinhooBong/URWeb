@@ -1,7 +1,4 @@
 # URWeb
-Online platform for local students to offer and seek tutoring services
-
-# URWeb
 
 An online platform for local students to offer and seek tutoring services. 
 Built for University of Richmond's local hack-a-thon, SpiderHacks. 
